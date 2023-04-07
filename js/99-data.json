@@ -1,0 +1,16 @@
+{
+    "Name": "Harsh",
+    "Age": 22,
+    "isstudent": true,
+    "passpor": null,
+    "p_lang": [
+        "c",
+        "c++",
+        "java"
+    ],
+    "adreess": {
+        "city": "Bgs",
+        "state": "Delhi",
+        "pin": 851127
+    }
+}
