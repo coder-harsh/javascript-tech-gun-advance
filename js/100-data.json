@@ -1,0 +1,33 @@
+{
+    "Name": "Harsh",
+    "Location": "BGS",
+    "Age": 28,
+    "is_student": true,
+    "passpor": null,
+    "p_lang": [
+        "c",
+        "c++",
+        "java"
+    ],
+    "Address": {
+        "City": "Purnea",
+        "State": "Bijhar",
+        "PIN": 851127
+    }
+}
+{
+    "Students": [
+        {
+            "Name": "Harsh",
+            "age": 25,
+        }
+        {
+            "Name": "Saurabh",
+            "age": 26,
+        }
+        {
+            "Name": "Piyush",
+            "age": 29,
+        }
+    ]
+}
